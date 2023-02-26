@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Siddharth Garg</h1>
-<h3 align="center">A Full Stack Web Developer from India.</h3>
 
 - 📫 How to reach me **siddharthgarg030@gmail.com**
 
