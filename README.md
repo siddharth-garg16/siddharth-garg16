@@ -4,9 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/s1ddhxrth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s1ddhxrth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharth-garg-301b68200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-garg-301b68200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/siddharthgarg16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharthgarg16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
